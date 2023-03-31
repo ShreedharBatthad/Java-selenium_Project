@@ -11,7 +11,6 @@ import com.orgbatthad.constants.Frameworkconcepts;
 public class BaseTest {
 
 	WebDriver ok;
-	
 
 	@BeforeMethod
 	public void setup()  {
